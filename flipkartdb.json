@@ -1,0 +1,31 @@
+{
+  "products111": [
+    {
+      "pid": "12",
+      "title": "Iphone",
+      "brand": "apple",
+      "price": "50000",
+      "description": "abcdefghijklamnopqrstuvwxyz",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "pid": "13",
+      "title": "Android",
+      "brand": "Oneplus",
+      "price": "20000",
+      "description": "mnopsrsjbdhhdjwnkldqgyfvubdjknjk",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    },
+    {
+      "pid": "14",
+      "title": "Android",
+      "brand": "Realme",
+      "price": "25000",
+      "description": "lkshdkhashfhiODHIHGISDHKHJK",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 3
+    }
+  ]
+}
